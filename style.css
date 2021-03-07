@@ -1,0 +1,13 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-bar {
+    background: linear-gradient(
+    -90deg, #84CF6A, #16C0B0);
+    height: 3.75em;
+    margin-bottom: 15px;
+}
